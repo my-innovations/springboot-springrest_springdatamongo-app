@@ -1,0 +1,2 @@
+https://www.journaldev.com/18156/spring-boot-mongodb
+https://medium.com/@gtommee97/rest-api-java-spring-boot-and-mongodb-4dffbcabbaf5
